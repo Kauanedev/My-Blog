@@ -1,4 +1,41 @@
-# Getting Started with Create React App
+# My Blog
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Kauanedev/My-Blog?color=%2304D361">
+  
+  <a href="https://github.com/Kauanedev/My-Blog/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Kauanedev/My-Blog">
+  </a>
+
+   <a href="https://cubos.academy/">
+    <img alt="Feito por Kauane Santos" src="https://img.shields.io/badge/feito-por%20Kauanedev-D818A5">
+   </a>
+</p>
+
+<h1 align="center">
+    <img alt="Home Page" title="#HOME PAGE" src="src/assets/My-Blog-createPost.jpeg" />
+</h1>
+
+<h4 align="center"> 
+✍	My Blog ✍
+</h4>
+<p align="center">
+	<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
+</p>
+
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-tecnologias">Tecnologias</a> 
+</p>
+
+## 💻 Sobre o projeto
+
+📄 My Blog - It is a project developed in one of my classes at Cubos Academy with some of my one features.<br/>
+I created a <a href='https://coolors.co/d44ce6-bb44d7-a23dc7-8835b8-6f2da8' target='_blank'>palette<a/>
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
