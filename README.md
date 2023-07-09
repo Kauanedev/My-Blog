@@ -36,7 +36,7 @@ I even created a <a href='https://coolors.co/d44ce6-bb44d7-a23dc7-8835b8-6f2da8'
 </p>
 
 <h1 align="center">
-    <img alt="palette" title="#palette" src="src/assets/My-Blog-palette.jpeg" />
+    <img alt="palette" title="#palette" src="src/assets/My-Blog_palette2.jpeg" />
 </h1>
 
 
