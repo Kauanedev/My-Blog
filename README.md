@@ -6,35 +6,62 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Kauanedev/My-Blog">
   </a>
 
-   <a href="https://cubos.academy/">
+   <a href="https://Kauanedev/">
     <img alt="Feito por Kauane Santos" src="https://img.shields.io/badge/feito-por%20Kauanedev-D818A5">
    </a>
 </p>
 
 <h1 align="center">
-    <img alt="Home Page" title="#HOME PAGE" src="src/assets/My-Blog-createPost.jpeg" />
+    <img alt="Home Page" title="#HOME PAGE" src="src/assets/My-Blog-homePage.jpeg" />
 </h1>
 
 <h4 align="center"> 
-✍	My Blog ✍
+✍MY BLOG✍
 </h4>
 <p align="center">
 	<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
 </p>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-tecnologias">Tecnologias</a> 
+ <a href="#about">About</a> •
+ <a href="#functionalities">Functionalities</a> •
+ <a href="#tecnologies">Tecnologies</a>  
 </p>
 
-## 💻 Sobre o projeto
+## 💻 About the project
+<p id='about'>
+📄 My Blog - Its a project developed in one of my classes at Cubos Academy with some of my one features.<br/>
+I even created a <a href='https://coolors.co/d44ce6-bb44d7-a23dc7-8835b8-6f2da8' target='_blank'>palette<a/> to add different shades of purple, witch is my favorite color.
 
-📄 My Blog - It is a project developed in one of my classes at Cubos Academy with some of my one features.<br/>
-I created a <a href='https://coolors.co/d44ce6-bb44d7-a23dc7-8835b8-6f2da8' target='_blank'>palette<a/>
+</p>
+
+<h1 align="center">
+    <img alt="palette" title="#palette" src="src/assets/My-Blog-palette.jpeg" />
+</h1>
 
 
+## ⚙️ Functionalities
 
+<h1 id='functionalities' align="center">
+    <img alt="Home Page" title="#HOME PAGE" src="src/assets/My-Blog-createPost.jpeg" />
+</h1>
+
+- [x] Choose your title
+- [x] Write a preview about your post
+- [x] Write your text
+- [x] Publish your text
+- [x] Delete your text
+
+
+## 🛠 Tecnologies
+<p id="tecnologies">
+For this project I used :	
+</p>
+
+<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>	
+<img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
