@@ -12,7 +12,7 @@ function Header({ handleChangeModal }) {
         onClick={handleChangeModal}
         className='btn-primary'
       >
-        Craete Post
+        Create Post
       </button>
 
     </header>
