@@ -42,8 +42,9 @@ I even created a <a href='https://coolors.co/d44ce6-bb44d7-a23dc7-8835b8-6f2da8'
 
 ## ⚙️ Functionalities
 
-<h1 id="functionalities" align="center">
-    <img alt="Home Page" title="#HOME PAGE" src="src/assets/My-Blog-createPost.jpeg" />
+<p id="functionalities" align="center"></p>    
+<h1 align="center">
+   <img alt="Home Page" title="#HOME PAGE" src="src/assets/My-Blog-createPost.jpeg" />
 </h1>
 
 - [x] Choose your title
