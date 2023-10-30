@@ -29,7 +29,7 @@
 </p>
 
 ## 💻 About the project
-<p id='about'>
+<p id="about">
 📄 My Blog - Its a project developed in one of my classes at Cubos Academy with some of my one features.<br/>
 I even created a <a href='https://coolors.co/d44ce6-bb44d7-a23dc7-8835b8-6f2da8' target='_blank'>palette<a/> to add different shades of purple, witch is my favorite color.
 
@@ -42,7 +42,7 @@ I even created a <a href='https://coolors.co/d44ce6-bb44d7-a23dc7-8835b8-6f2da8'
 
 ## ⚙️ Functionalities
 
-<h1 id='functionalities' align="center">
+<h1 id="functionalities" align="center">
     <img alt="Home Page" title="#HOME PAGE" src="src/assets/My-Blog-createPost.jpeg" />
 </h1>
 
